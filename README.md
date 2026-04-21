@@ -14,4 +14,5 @@ Para extrair os insights necessários, desenvolvi queries estruturadas que podem
 
 ## 🏗️ Modelagem de Dados
 Abaixo, a estrutura de relacionamentos utilizada para garantir a integridade dos KPIs:
+
 <img width="1600" height="869" alt="modelo_projeto" src="https://github.com/user-attachments/assets/42e04396-9848-44f6-84bb-e862b8f28054" />
